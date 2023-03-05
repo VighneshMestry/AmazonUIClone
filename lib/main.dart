@@ -85,6 +85,7 @@ class _HomePageState extends State<HomePage> {
                 const Icon(
                   Icons.mic_none,
                   color: Colors.black,
+                  size: 25,
                 ),
               ],
             ),
